@@ -1,0 +1,13 @@
+C:\Users\Sledmore\Desktop\PlusEMU\bin\Debug\Plus Emulator.exe.config
+C:\Users\Sledmore\Desktop\PlusEMU\bin\Debug\Plus Emulator.exe
+C:\Users\Sledmore\Desktop\PlusEMU\bin\Debug\Plus Emulator.pdb
+C:\Users\Sledmore\Desktop\PlusEMU\bin\Debug\log4net.dll
+C:\Users\Sledmore\Desktop\PlusEMU\bin\Debug\MySql.Data.dll
+C:\Users\Sledmore\Desktop\PlusEMU\bin\Debug\log4net.xml
+C:\Users\Sledmore\Desktop\PlusEMU\obj\x86\Debug\Plus Emulator.exe
+C:\Users\Sledmore\Desktop\PlusEMU\obj\x86\Debug\Plus Emulator.pdb
+C:\Users\Sledmore\Desktop\PlusEMU\bin\Debug\AStar.dll
+C:\Users\Sledmore\Desktop\PlusEMU\bin\Debug\HabboEncryption.dll
+C:\Users\Sledmore\Desktop\PlusEMU\bin\Debug\MoreLinq.dll
+C:\Users\Sledmore\Desktop\PlusEMU\bin\Debug\MoreLinq.xml
+C:\Users\Sledmore\Desktop\PlusEMU\obj\x86\Debug\Plus Emulator.csprojResolveAssemblyReference.cache
